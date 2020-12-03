@@ -7,7 +7,7 @@ import java.util.List;
 public class ArrayListExample {
     public static void main(String[] args)
     {
-/*        List<String> list = new ArrayList<String>();
+        List<String> list = new ArrayList<String>();
         list.add("Khushboo");
         list.add("yadav");
         list.add("Ram");
@@ -24,8 +24,8 @@ public class ArrayListExample {
         if(list.contains("Khushboo"))
         {
             System.out.println("true");
-        }*/
-        ArrayList list1 = new ArrayList();
+        }
+/*        ArrayList list1 = new ArrayList();
         list1.add(35);
         list1.add("khushboo");
         for(Object o: list1)
@@ -38,7 +38,7 @@ public class ArrayListExample {
             {
                 System.out.println(o);
             }
-        }
+        }*/
 
 
     }
